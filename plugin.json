@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "id": "io.github.32bitx64bit.tabs",
+  "name": "Tabs!",
+  "version": "1.0.0",
+  "api": 1,
+  "main": "main.lua",
+  "description": "Theme-native browser-style tabs for channels, DMs, threads, forums, and views in C-Cord.",
+  "license": "MIT",
+  "permissions": [
+    "ui.panel",
+    "navigation.write",
+    "store.read",
+    "events.channels",
+    "events.messages"
+  ]
+}
